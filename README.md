@@ -1,4 +1,4 @@
 Tests_on_Jenkins
 ================
 
-Simple Selenium script for automated Jenkins Jobs tests
+Simple Selenium script for automated Jenkins Jobs test
