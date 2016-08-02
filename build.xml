@@ -12,7 +12,7 @@
 		<pathelement location="build"/>
     </path>
 	
-	<!-- create build folder, testng_output folder and remove old log file -->
+	<!-- create build folder, testng_output folder and remove old log files -->
 	<target name="init">
 		<delete dir="build"/>
 		<delete dir="testng_output"/>
